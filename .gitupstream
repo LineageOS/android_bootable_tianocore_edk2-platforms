@@ -1,0 +1,2 @@
+upstream	https://github.com/tianocore/edk2-platforms.git
+nvidia		https://github.com/NVIDIA/edk2-platforms.git
